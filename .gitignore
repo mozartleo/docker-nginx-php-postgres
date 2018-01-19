@@ -1,0 +1,5 @@
+/.idea/
+/var/
+!/var/log/nginx/.gitignore
+!/var/www/.gitignore
+/.env
